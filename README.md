@@ -4,6 +4,7 @@ PUS - Printer Universally scalable
 
 HOG 3D PlaDruMas is a, to an as high as possible degree, from <a href="http://wiki.opensourceecology.de/Universal_Prototyping_Kit#Basis-Set_Strukturelemente">Universal Prototyping Kit</a>-Parts  built machine, which shall operate both as 3D printer and circuit mill.
 
+<img src="HOG3D_PlaDruMas.png" alt="" title=""/>
 
 Context
 ----
