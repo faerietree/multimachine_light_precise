@@ -4,7 +4,6 @@ PUS - Printer Universally scalable
 
 HOG 3D PlaDruMas is a, to an as high as possible degree, from <a href="http://wiki.opensourceecology.de/Universal_Prototyping_Kit#Basis-Set_Strukturelemente">Universal Prototyping Kit</a>-Parts  built machine, which shall operate both as 3D printer and circuit mill.
 
-<img src="HOG3D_PlaDruMas__front_view" alt="" title=""/>
 <img src="HOG3D_PlaDruMas.png" alt="" title=""/>
 
 Context
@@ -41,14 +40,14 @@ Modularity & Recycability implies:
 * UniProKit Universal Prototyping Kit parts only.
 
 The High-speed and High-precision requirements imply:
-* High computing power and advanced Algorithms are necessary to predict and calculate optimum speed. 
+* High computing power and advanced Algorithms are necessary to predict and calculate optimum speed.
 
 
 
 Development:
 ----
 * Converted UniProKit parts into Wavefront (.obj) und Solidstereolithic (.stl) konvertiert. (convert script for the free UNIX operating systems <a href="https://github.com/faerietree/multimachine_lightspeed_precise/blob/master/freecad_convert.py">download here</a>).
-  
+
   *Note: Omit the in tuples occurring '<' and '>' in the following commands! These signalise a placeholder.
   Leading $-character (if exists) followed by space stands for shell/command line and is to be omitted too.*
 
@@ -57,7 +56,7 @@ Development:
 
     Find FreeCAD.so or FreeCAD.dll:
         cd / && find -name "FreeCAD.*" -type f
-    
+
     Convert command:
         NUMBER=<choose one of 20|40|60|80|120|160|240|320|400|640> && export FREECAD_LIB_PATH=<path/to/FreeCAD.so or .dll>:$FREECAD_LIB_PATH && python freecad_convert.py basis-set/tslot/TSlot\ $NUMBER.stp basis-set/tslot/TSlot_$NUMBER.obj && python freecad_convert.py basis-set/tslot/TSlot\ $NUMBER.stp kit/T_Slot_$NUMBER.stl
 
