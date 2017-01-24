@@ -5,14 +5,8 @@ Multimachine lightspeed precise
 
 <img src="multimachine_universally_scalable_schema.jpg" alt="" title=""/>
 
-Alias
----
-Previously also known as:
-* PUS - Printer universally scalable (subset of multimachine universally scalable)
-* HOG3D PlaDruMas (PlatinenDruckMaschine)
-The primer term is misleading as this version is not scalable due to an upper limit to the size of T slots available of 0.64 m which is used currently.
 
-It is a, to an as high as possible degree, from <a href="http://wiki.opensourceecology.de/Universal_Prototyping_Kit#Basis-Set_Strukturelemente">Universal Prototyping Kit</a>-Parts  built machine, which shall operate both as 3D printer and circuit mill.
+An to an as high as possible degree from <a href="http://wiki.opensourceecology.de/Universal_Prototyping_Kit#Basis-Set_Strukturelemente">Universal Prototyping Kit</a> parts built machine, which shall operate both as 3D printer and circuit mill.
 
 <img src="HOG3D_PlaDruMas.png" alt="" title=""/>
 
@@ -21,10 +15,10 @@ Context
 ###There are 2 different 3D manufacturing machine types in development currently:
 
 * HOG - HOchGeschwindigkeit (leicht, mittleres Volumen, hochgeschwind)
-  * 3D PlaDruMas (PUS - Printer Uniprokit Speedy) [UniProKit + Riemen]
+  * 3D PlaDruMas (Platinen/Druck-Maschine | PUS - Printer UniProKit Speedy) [UniProKit + Riemen]
 
 * <a href="https://github.com/faerietree/multimachine_universally_scalable">HOF - HOchFestigkeit (massiv, großräumig, langsam)</a>
-  * 4D FräDreMas (MUS - Mill Universally Scalable) [made from Schrott + präzisionsgefertigte Massivplatten + Plexiglas]
+  * 4D FräDreMas (MUS - Mill Universally Scalable) [made from scrap + precision manufactured massive sheet + plexiglas]
   * 4D CiPriMa (MUS - Mill Universally Scalable) [made from U + I beams + lead screws, very few and easy to get parts]
 
 It is assumed that a hybrid, that is the perfect machine - as it combines all properties in one - not exists. At least one property combination (massive + ultra high speed (e.g. belts)) seems hard to achieve in one machine.
