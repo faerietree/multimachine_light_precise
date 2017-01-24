@@ -1,8 +1,18 @@
-PUS - Printer Universally scalable
+Multimachine lightspeed precise
 =======
 
 
-HOG 3D PlaDruMas is a, to an as high as possible degree, from <a href="http://wiki.opensourceecology.de/Universal_Prototyping_Kit#Basis-Set_Strukturelemente">Universal Prototyping Kit</a>-Parts  built machine, which shall operate both as 3D printer and circuit mill.
+
+<img src="multimachine_universally_scalable_schema.jpg" alt="" title=""/>
+
+Alias
+---
+Previously also known as:
+* PUS - Printer universally scalable (subset of multimachine universally scalable)
+* HOG3D PlaDruMas (PlatinenDruckMaschine)
+The primer term is misleading as this version is not scalable due to an upper limit to the size of T slots available of 0.64 m which is used currently.
+
+It is a, to an as high as possible degree, from <a href="http://wiki.opensourceecology.de/Universal_Prototyping_Kit#Basis-Set_Strukturelemente">Universal Prototyping Kit</a>-Parts  built machine, which shall operate both as 3D printer and circuit mill.
 
 <img src="HOG3D_PlaDruMas.png" alt="" title=""/>
 
