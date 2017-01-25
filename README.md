@@ -10,6 +10,17 @@ An to an as high as possible degree from <a href="http://wiki.opensourceecology.
 
 <img src="HOG3D_PlaDruMas.png" alt="" title=""/>
 
+
+Changes relative to Version 1.0:
+---
+* Bootstrap! (require no 3D printed parts)
+* Use ball bearings instead of sliders.
+* Motors actually mountable!
+* Symmetric footprint: 64 cm * 64 cm
+* Use M6 fasteners instead of M4. (Credit Carl Asenius)
+* Replace almost all hammer nuts with square nuts. (Idea Credit Carl Asenius|Oliver; Square nut functionality in FastenerFactory credit of Consul Jan Cake Hobbittale|J.R.I.B. Fruehholz|faerietree)
+
+
 Context
 ----
 ###There are 2 different 3D manufacturing machine types in development currently:
