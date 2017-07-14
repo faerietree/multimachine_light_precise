@@ -23,20 +23,7 @@ Changes relative to Version 1.0:
 
 Context
 ----
-There are 2 different universally scalable 3D manufacturing machine types in development currently:
-
-* multimachine_lightspeed_precise (small to medium volume, cartesian)
-  * 3D PUS - Printer UniProKit Speedy [Universal Prototyping Kit + V belts]
-
-* <a href="https://github.com/faerietree/multimachine_massive_slow">multimachine_massive_slow</a>
-  * 4D FräDreMas [made from scrap + sheets of acrylic glass]
-  * 4D CiPriMa [made from U + I beams + lead screws, very few and easy to get parts]
-  * 4D <a href="https://github.com/faerietree/manipulator">manipulator</a>
-
-It is assumed that a hybrid, that is the perfect machine - as it combines all properties in one - not exists.
-High mass physically counteracts high speed (e.g. belts) due to inertia.
-
-Note that acrylic glass is a useful addition to all machines for safety and heat consistency.
+<a href="https://github.com/worlddevelopment/manufacturing/multimachine.md">Types</a>
 
 
 Requirements/Goals:
